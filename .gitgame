@@ -1,0 +1,4 @@
+Game.data (GITH {
+  Gamecops.join();
+  Gamecops.joinWithIp(IP.random);
+})
